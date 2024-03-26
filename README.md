@@ -83,9 +83,9 @@ Then you will meet the main page of Achievo, in here there are buttons on the bo
 ## ✍️ Authors <a name = "authors"></a>
 - [@Galviinn](https://github.com/Galviinn) - Idea & Back-end work
 - [@Nurdin-Andi](https://github.com/Nurdin-andi) - Character Design & Front-end work
-- [@?](https://github.com/) - Character Design & Front-end work
-- [@?](https://github.com/) - Front-end work
-- [@?](https://github.com/) - Documentation & Front-end work
+- Ricky - Character Design & Front-end work
+- Dimas - Front-end work
+- Aryo - Documentation & Front-end work
 
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
