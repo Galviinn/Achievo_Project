@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://imgur.com/41pz2Ld.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="SoftwareE1/Resources/Logo.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">A C H I E V O</h3>
@@ -56,7 +56,7 @@ Firstly, when running the application you'll meet the start page of Achievo. Her
 
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://imgur.com/sH60vtH.jpg" alt="Project logo"></a>
+ <img src="readme_assets/RegisterPage.png" alt="Project logo"></a>
 </p>
 
 *P.S Choosing gender in the registration page will determine your equipped `chievy` in the initial creation (You can change this later in the store page).* 
@@ -73,7 +73,7 @@ Then you will meet the main page of Achievo, in here there are buttons on the bo
 
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://imgur.com/4EuRRid.jpg" alt="Project logo"></a>
+ <img src="readme_assets/HomePage.png" alt="Project logo"></a>
 </p>
 
 ## ⛏️ Built Using <a name = "built_using"></a>
